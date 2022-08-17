@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=HiThere!&fontAlign=80&fontAlignY=40&color=gradient" />
+  <a href="https://github.com/HongChaeMin">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyunjunyong&theme=dracula" />
+  </a>
+</div>
+
 <!--
 **hyunjunyong/hyunjunyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
