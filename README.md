@@ -1,22 +1,28 @@
 ### Hi there 👋
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=HiThere!&fontAlign=80&fontAlignY=40&color=gradient" />
-  <a href="https://github.com/HongChaeMin">
+  <a href="https://github.com/hyunjunyong">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyunjunyong&theme=dracula" />
   </a>
 </div>
 
-<!--
-**hyunjunyong/hyunjunyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hyunjunyong&show_icons=true&theme=dracula&title_color=5c5c5c&bg_color=f8f8f8&icon_color=5c5c5c&text_color=ee9ca7">   
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjunyong&bg_color=f8f8f8&layout=compact&title_color=5c5c5c&card_width=445">
+</div>
+스탯확인
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qww1552)](https://solved.ac/hjy4649/)
+
+
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=HiThere!&fontAlign=80&fontAlignY=40&color=gradient" />
+  <a href="https://github.com/hyunjunyong">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hyunjunyong&theme=dracula" />
+  </a>
+</div>
