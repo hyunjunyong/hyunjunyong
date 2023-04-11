@@ -1,7 +1,7 @@
 # 현준용
 
 ## 프로필
-- 카비오스 재직중 (2022.02.26 ~ )
+- 커넥트웨이브 재직중 (2022.02.26 ~ )
  - notion: <a href='https://jade-guava-313.notion.site/s-6ea0d5952e914d2f985ee86725bb1d51'>여기!</a>
  - github: <a href="https://github.com/hyunjunyong/">여기!</a>
  - email: hjy123432@gmail.com
