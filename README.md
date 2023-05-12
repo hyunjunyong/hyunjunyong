@@ -12,6 +12,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjunyong&bg_color=f8f8f8&layout=compact&title_color=5c5c5c&card_width=445">
 </div>
 
-<div>
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hyunjunyong&theme=onedark&no-frame=true&no-bg=true&margin-w=15" / >
  <div>
